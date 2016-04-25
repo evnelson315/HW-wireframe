@@ -6,7 +6,8 @@
 body {
 	background-color: #777;
 	margin: 20px;
-	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: 'Arial', 'Helvetica Neue',
+	 Helvetica, sans-serif;
 	font-size: 18px;
 	font: #777;
 	width: 960px;
@@ -28,11 +29,8 @@ h1 {
 	height: 50px;
 	font-size: 18px;
 }
-
-
-
 .section {
-  float:left;
+  	float:left;
     width: 495px;
     padding: 10px;
     height: 325px;
